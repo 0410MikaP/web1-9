@@ -1,10 +1,12 @@
 fileFormatVersion: 2
 guid: 04524fd99922d184b8fa10a24a6dca42
-timeCreated: 1531123808
+timeCreated: 1532335191
 licenseType: Pro
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - appleSE: {fileID: 8300000, guid: 810874a62dac8b546b94a122b8916330, type: 3}
+  - bombSE: {fileID: 8300000, guid: f7683ae066e3c3f43a0b23803d9ca393, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
